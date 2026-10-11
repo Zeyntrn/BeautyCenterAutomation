@@ -42,7 +42,7 @@ C# · Windows Forms (.NET) · Microsoft SQL Server · Visual Studio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BeautyCenterAutomation.git
+   git clone https://github.com/Zeyntrn/BeautyCenterAutomation.git
    ```
 2. In SQL Server Management Studio, create an empty database and run [`database-schema.sql`](database-schema.sql) on it.
 3. Search the project for `Data Source` and set the connection string to your own server and database:
